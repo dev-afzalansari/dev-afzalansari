@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**dev-afzalansari/dev-afzalansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my profile.
 
-Here are some ideas to get you started:
+Here are few words about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on making the ecosystem of typescript and react better.
+- 🌱 Currently trying to dive deep the modern web.
+- 👯 Looking to collaborate on anything that you find me suitable for.
+- 📫 Reach me through contact link below.
+
+### [Support](https://afzal.vercel.app/support)
+### [Contact](mailto:dev.afzalansari@gmail.com)
