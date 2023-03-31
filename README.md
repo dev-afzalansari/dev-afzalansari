@@ -9,5 +9,9 @@ Here are few words about me.
 - 👯 Looking to collaborate on anything that you find me suitable for.
 - 📫 Reach me through contact link below.
 
-### [Support](https://afzal.vercel.app/support)
-### [Contact](mailto:dev.afzalansari@gmail.com)
+### [Link-In-Bio](https://bit.ly/m/links-bio)
+### [Twitter](https://bit.ly/3G5EeWG)
+### [Medium](https://bit.ly/afzalmedium)
+### [LinkedIn](https://bit.ly/afzallinkedin)
+### [Buy me a coffee](https://bit.ly/afzalcoffee)
+### [contact](mailto:dev.afzalansari@gmail.com)
