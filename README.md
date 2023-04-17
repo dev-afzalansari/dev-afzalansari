@@ -10,7 +10,6 @@ Here are few words about me.
 - 📫 Reach me through contact link below.
 
 ### [Link-In-Bio](https://bit.ly/m/links-bio)
-### [Twitter](https://bit.ly/3G5EeWG)
 ### [Medium](https://bit.ly/afzalmedium)
 ### [LinkedIn](https://bit.ly/afzallinkedin)
 ### [Buy me a coffee](https://bit.ly/afzalcoffee)
