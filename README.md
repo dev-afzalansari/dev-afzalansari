@@ -13,4 +13,4 @@ Here are few words about me.
 ### [Medium](https://bit.ly/afzalmedium)
 ### [LinkedIn](https://bit.ly/afzallinkedin)
 ### [Buy me a coffee](https://bit.ly/afzalcoffee)
-### [contact](mailto:dev.afzalansari@gmail.com)
+### [Contact](mailto:dev.afzalansari@gmail.com)
