@@ -11,6 +11,7 @@ Here are few words about me.
 
 ### [Link-In-Bio](https://bit.ly/m/links-bio)
 ### [Medium](https://bit.ly/afzalmedium)
+### [Twitter](https://twitter.com/afzalansari_dev)
 ### [LinkedIn](https://bit.ly/afzallinkedin)
 ### [Buy me a coffee](https://bit.ly/afzalcoffee)
 ### [Contact](mailto:dev.afzalansari@gmail.com)
